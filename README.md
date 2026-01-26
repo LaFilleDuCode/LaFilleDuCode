@@ -5,7 +5,7 @@
 
 - 👩🏻‍💻 Code Game Jam 2024 : [La Dernière Descente](https://ystevak.itch.io/la-derniere-descente)
 - 🎮 Mon Itch.io : [DfAnaIII](https://dfanaiii.itch.io/)
-- 🔨 Mon site github : [Mon Site](https://dfanaiii.github.io/)
+- 🔨 Mon site github : [Mon Site](https://lafilleducode.github.io/Portfolio/portfolio.html)
 
 # 💻 Langages et Outils :
 
