@@ -3,8 +3,10 @@
 </div>
 <h1 align="center">Hello 👋 !</h1>
 
-- 👩🏻‍💻 Code Game Jam 2024 : [La Dernière Descente](https://ystevak.itch.io/la-derniere-descente)
 - 🎮 Mon Itch.io : [DfAnaIII](https://dfanaiii.itch.io/)
+  - 👩🏻‍💻 Code Game Jam 2026 : [Maîtres Cliqueurs sur leur Panthéon perché](https://bastien-baron-zielinski.itch.io/maitres-cliqueurs-sur-leur-pantheon-perche)
+  - 👩🏻‍💻 Code Game Jam 2024 : [La Dernière Descente](https://ystevak.itch.io/la-derniere-descente)
+
 - 🔨 Mon site github : [Mon Site](https://lafilleducode.github.io/Portfolio/portfolio.html)
 
 # 💻 Langages et Outils :
